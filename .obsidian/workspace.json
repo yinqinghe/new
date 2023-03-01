@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +164,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "ac97d93c67e5b5d3",
+  "active": "064cab8e709617e8",
   "lastOpenFiles": [
     "02/05.md",
     "Daily/2023-03-01.md",
