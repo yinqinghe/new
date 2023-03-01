@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6cc55f60ff80cf10",
+    "type": "split",
+    "children": [
+      {
+        "id": "686753909f861f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac97d93c67e5b5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-03-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6c6ceb3016fde7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce41808c778580c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b007cabc57803cd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01d14744f4ba5352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dd7df81a8a4ce28",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fde08e8aaeacc966",
+    "type": "split",
+    "children": [
+      {
+        "id": "b667b23a867e5117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6fa64ba21347dbf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2023-03-01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "608aec4c3c3be1de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2023-03-01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "445e3c03a8487e3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6106eb0a2195f07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2023-03-01.md"
+              }
+            }
+          },
+          {
+            "id": "18635bcaf474d1b1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 337.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "b007cabc57803cd7",
+  "lastOpenFiles": [
+    "02/05.md",
+    "Daily/2023-03-01.md",
+    "01/05.md",
+    "Daily",
+    "02",
+    "01"
+  ]
+}
